@@ -1,4 +1,4 @@
-# web-dev-resources
+
 ## GENERATORS:
 * Text Content Generator - http://www.lipsum.com
 * Favicon Generator - http://tools.dynamicdrive.com/favicon		
